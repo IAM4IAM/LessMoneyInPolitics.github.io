@@ -12,10 +12,11 @@ Dramatically Shrink Money in Elections
 
 
 PROBLEM SUMMARY:
-We all know there is too much money in Politics
-We also know that Lobbyists and Special Interest Money Corrupts our Representative
-Their Money Funds the Political Party Machines
-Too Much Money is Spent Influencing Campaigns and Elections
+
+We all know there is too much money in Politics.
+We also know that Lobbyists and Special Interest Money Corrupts our Representative.
+Their Money Funds the Political Party Machines.
+Too Much Money is Spent Influencing Campaigns and Elections.
 This Money Circumvents the Voice of "We The People"
 
 
@@ -23,13 +24,12 @@ SOLUTION:
 
 "The Umbrella Promise"
 
-A Plan to Make Washington Representative Represent Us, We The People
-They Will No Longer Represent Special Interest or Vote Only by Party Lines
-We Can Take Back Control of Legislative Agendas in Washington
-The Umbrella Promise is in Accordance with the US Constitution
+A Plan to Make Washington Representative Represent Us, We The People.
+They Will No Longer Represent Special Interest or Vote Only by Party Lines.
+We Can Take Back Control of Legislative Agendas in Washington.
+The Umbrella Promise is in Accordance with the US Constitution.
 
-
-The Solution = A Public Legislation DAO in Each Congressional District
+The Solution = A Public Legislation DAO in Each Congressional District.
 
 A New Constitutionally Sound Way of Representation
 The Legislative DAO is Blockchain Based
