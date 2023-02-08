@@ -1,7 +1,7 @@
-# LessMoneyInPolitics
+# Less Money In Politics
 
 
-"The Umbrella Promise"
+# "The Umbrella Promise"
 Whitepaper: "Less Money &amp; Less Party Politics in Washington"
 Proposed By: iam4iam
 
@@ -12,7 +12,7 @@ Limit the Power of Party Elites & Partisan Politics
 Dramatically Shrink Money in Elections
 
 
-PROBLEM SUMMARY:
+# PROBLEM SUMMARY:
 
 We all know there is too much money in Politics.
 We also know that Lobbyists and Special Interest Money Corrupts our Representative.
@@ -21,16 +21,16 @@ Too Much Money is Spent Influencing Campaigns and Elections.
 This Money Circumvents the Voice of "We The People"
 
 
-SOLUTION:
+# SOLUTION:
 
-"The Umbrella Promise"
+# "The Umbrella Promise"
 
 A Plan to Make Washington Representative Represent Us, We The People.
 They Will No Longer Represent Special Interest or Vote Only by Party Lines.
 We Can Take Back Control of Legislative Agendas in Washington.
 The Umbrella Promise is in Accordance with the US Constitution.
 
-The Solution = A Public Legislation DAO in Each Congressional District.
+# The Solution = A Public Legislation DAO in Each Congressional District.
 
 A New Constitutionally Sound Way of Representation
 The Legislative DAO is Blockchain Based
@@ -52,7 +52,7 @@ Special Reason for the Name “Umbrella Promise”  The Representative Pledges &
 Representative Are Also Protected by the Umbrella - They Don't Need to Raise Money for the Next Campaign - They Just Must Vote Per the DAO - Per the Will of Their Constituents
 
 
-Great News! Blockchain DAO Technology Exists Today
+# Great News! Blockchain DAO Technology Exists Today
 This Can Be Done
 A Grassroots Campaign Can Take Back Washington
 First Legislative DAO Candidate Will Cause a Giant Ripple in the DC Swamp
