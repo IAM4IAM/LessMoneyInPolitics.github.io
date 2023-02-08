@@ -7,8 +7,11 @@ Proposed By: iam4iam
 
 
 A White Paper on How To End Big Money in DC
+
 Weaken the Lobbyists & Special Interest Groups
+
 Limit the Power of Party Elites & Partisan Politics
+
 Dramatically Shrink Money in Elections
 
 
