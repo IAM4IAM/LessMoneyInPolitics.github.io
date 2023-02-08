@@ -1,4 +1,5 @@
-# LessMoneyInPolitics.github.io
+# LessMoneyInPolitics
+
 
 "The Umbrella Promise"
 Whitepaper: "Less Money &amp; Less Party Politics in Washington"
