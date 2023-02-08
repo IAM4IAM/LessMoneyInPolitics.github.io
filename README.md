@@ -1,10 +1,10 @@
-# Less Money In Politics
+## Less Money In Politics
 
 
-# "The Umbrella Promise"
-"Less Money &amp; Less Party Politics in Washington"
+## "The Umbrella Promise"
+# "Less Money &amp; Less Party Politics in Washington"
 
-Proposed By: iam4iam
+# Proposed By: iam4iam
 
 
 
@@ -17,16 +17,20 @@ Limit the Power of Party Elites & Partisan Politics
 Dramatically Shrink Money in Elections
 
 
-# PROBLEM SUMMARY:
+## PROBLEM SUMMARY:
 
 We all know there is too much money in Politics.
-We also know that Lobbyists and Special Interest Money Corrupts our Representative.
-Their Money Funds the Political Party Machines.
-Too Much Money is Spent Influencing Campaigns and Elections.
-This Money Circumvents the Voice of "We The People"
+We also know that Lobbyists and Special Interest money corrupts our Representative.
+Their money funds the political party machines.
+
+Too much money is spent influencing campaigns and elections.
+This money circumvents the voice of "We The People"
+
+# It doesn't have to be this way.
 
 
-# SOLUTION:
+
+## SOLUTION:
 
 # "The Umbrella Promise"
 
