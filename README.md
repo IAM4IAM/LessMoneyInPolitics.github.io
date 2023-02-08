@@ -2,8 +2,10 @@
 
 
 # "The Umbrella Promise"
-Whitepaper: "Less Money &amp; Less Party Politics in Washington"
+"Less Money &amp; Less Party Politics in Washington"
+
 Proposed By: iam4iam
+
 
 
 A White Paper on How To End Big Money in DC
@@ -28,10 +30,11 @@ This Money Circumvents the Voice of "We The People"
 
 # "The Umbrella Promise"
 
-A Plan to Make Washington Representative Represent Us, We The People.
-They Will No Longer Represent Special Interest or Vote Only by Party Lines.
-We Can Take Back Control of Legislative Agendas in Washington.
-The Umbrella Promise is in Accordance with the US Constitution.
+Is a plan to make Washington Representative represent us, We The People.
+They will no longer represent special interest or vote only by Party Lines.
+
+We can take back control of Legislative Agendas in Washington.
+The "Umbrella Promise" is in accordance with the US Constitution.
 
 # The Solution = A Public Legislation DAO in Each Congressional District.
 
